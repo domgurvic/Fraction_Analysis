@@ -1,4 +1,4 @@
-# Fraction_Analysis by Dom Gurvic
+# Fraction_Analysis 
 University of Dundee, Computational Biology Division
 
 
